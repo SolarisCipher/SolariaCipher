@@ -1,0 +1,52 @@
+# SolariaCipher 👋
+
+Cybersecurity student building practical, job-ready skills through labs, writeups, and small automation projects.  
+Google Cybersecurity Professional Certificate ✅ | CompTIA Security+ (SY0-701) in progress | TryHackMe labs
+
+---
+
+## What I’m focusing on
+- Security fundamentals (networking, IAM, hardening, risk)
+- Blue Team basics: log analysis, detection mindset, incident response
+- Hands-on labs with clear writeups (sanitized + ethical)
+- Python/Bash scripting for small security tasks
+
+---
+
+## Featured Projects
+- 🔹 **Blue Team Labs** → https://github.com/SolariaCipher/blue-team-labs  
+  Log analysis, detection notes, incident-style mini reports.
+
+- 🔹 **TryHackMe Writeups (Sanitized)** → https://github.com/SolariaCipher/tryhackme-writeups  
+  Method-focused writeups (no flags, no secrets, room-compliant).
+
+- 🔹 **Scripts & Automation** → https://github.com/SolariaCipher/scripts-and-automation  
+  Small Python/Bash utilities (parsers, helpers, learning projects).
+
+- 🔹 **Security+ Notes (SY0-701)** → https://github.com/SolariaCipher/securityplus-notes  
+  Structured notes + cheat sheets written in my own words.
+
+---
+
+## Tools I use (growing list)
+- Linux, Windows basics, Git/GitHub
+- Wireshark, tcpdump
+- Security concepts: DNS/HTTP, TCP/IP, basic triage & hardening
+- Scripting: Python (basic), Bash (basic)
+
+---
+
+## Profiles
+- TryHackMe: https://tryhackme.com/p/SolariaCipher
+- LinkedIn: https://www.linkedin.com/in/valerio-lolli-ab7137149
+
+---
+
+## Contact
+- Email: valerio.lolli@outlook.com
+
+---
+
+### Notes
+All content is for educational use in legal lab environments only.  
+Writeups are sanitized (no credentials, no personal data, no flags).
